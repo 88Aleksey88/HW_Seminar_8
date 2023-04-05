@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\bin\Debug\net7.0\Задача_58.exe
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\bin\Debug\net7.0\Задача_58.deps.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\bin\Debug\net7.0\Задача_58.runtimeconfig.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\bin\Debug\net7.0\Задача_58.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\bin\Debug\net7.0\Задача_58.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\Задача_58.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\Задача_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\Задача_58.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\Задача_58.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\Задача_58.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\Задача_58.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\refint\Задача_58.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\Задача_58.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\Задача_58.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_8\Задача_58\obj\Debug\net7.0\ref\Задача_58.dll
